@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PRGN-Pro\\Documents\\GitHub\\.NET-Core-API-TratamentoDeExcecoes\\TratamentoDeExcecoes\\TratamentoDeExcecoes\\TratamentoDeExcecoes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PRGN-Pro\\Documents\\GitHub\\.NET-Core-API-TratamentoDeExcecoes\\TratamentoDeExcecoes\\TratamentoDeExcecoes\\TratamentoDeExcecoes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PRGN-Pro\\Documents\\GitHub\\.NET-Core-API-TratamentoDeExcecoes\\TratamentoDeExcecoes\\TratamentoDeExcecoes\\TratamentoDeExcecoes.csproj",
+        "projectName": "TratamentoDeExcecoes",
+        "projectPath": "C:\\Users\\PRGN-Pro\\Documents\\GitHub\\.NET-Core-API-TratamentoDeExcecoes\\TratamentoDeExcecoes\\TratamentoDeExcecoes\\TratamentoDeExcecoes.csproj",
+        "packagesPath": "C:\\Users\\PRGN-Pro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PRGN-Pro\\Documents\\GitHub\\.NET-Core-API-TratamentoDeExcecoes\\TratamentoDeExcecoes\\TratamentoDeExcecoes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PRGN-Pro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

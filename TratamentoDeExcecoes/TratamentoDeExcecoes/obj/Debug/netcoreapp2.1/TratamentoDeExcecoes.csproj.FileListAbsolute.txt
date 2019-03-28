@@ -1,0 +1,14 @@
+C:\Users\PRGN-Pro\Documents\GitHub\.NET-Core-API-TratamentoDeExcecoes\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\netcoreapp2.1\TratamentoDeExcecoes.deps.json
+C:\Users\PRGN-Pro\Documents\GitHub\.NET-Core-API-TratamentoDeExcecoes\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\netcoreapp2.1\TratamentoDeExcecoes.runtimeconfig.json
+C:\Users\PRGN-Pro\Documents\GitHub\.NET-Core-API-TratamentoDeExcecoes\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\netcoreapp2.1\TratamentoDeExcecoes.runtimeconfig.dev.json
+C:\Users\PRGN-Pro\Documents\GitHub\.NET-Core-API-TratamentoDeExcecoes\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\netcoreapp2.1\TratamentoDeExcecoes.dll
+C:\Users\PRGN-Pro\Documents\GitHub\.NET-Core-API-TratamentoDeExcecoes\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\netcoreapp2.1\TratamentoDeExcecoes.pdb
+C:\Users\PRGN-Pro\Documents\GitHub\.NET-Core-API-TratamentoDeExcecoes\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\netcoreapp2.1\TratamentoDeExcecoes.csprojAssemblyReference.cache
+C:\Users\PRGN-Pro\Documents\GitHub\.NET-Core-API-TratamentoDeExcecoes\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\netcoreapp2.1\TratamentoDeExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\PRGN-Pro\Documents\GitHub\.NET-Core-API-TratamentoDeExcecoes\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\netcoreapp2.1\TratamentoDeExcecoes.RazorAssemblyInfo.cache
+C:\Users\PRGN-Pro\Documents\GitHub\.NET-Core-API-TratamentoDeExcecoes\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\netcoreapp2.1\TratamentoDeExcecoes.RazorAssemblyInfo.cs
+C:\Users\PRGN-Pro\Documents\GitHub\.NET-Core-API-TratamentoDeExcecoes\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\netcoreapp2.1\TratamentoDeExcecoes.AssemblyInfoInputs.cache
+C:\Users\PRGN-Pro\Documents\GitHub\.NET-Core-API-TratamentoDeExcecoes\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\netcoreapp2.1\TratamentoDeExcecoes.AssemblyInfo.cs
+C:\Users\PRGN-Pro\Documents\GitHub\.NET-Core-API-TratamentoDeExcecoes\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\netcoreapp2.1\TratamentoDeExcecoes.RazorTargetAssemblyInfo.cache
+C:\Users\PRGN-Pro\Documents\GitHub\.NET-Core-API-TratamentoDeExcecoes\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\netcoreapp2.1\TratamentoDeExcecoes.dll
+C:\Users\PRGN-Pro\Documents\GitHub\.NET-Core-API-TratamentoDeExcecoes\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\netcoreapp2.1\TratamentoDeExcecoes.pdb
